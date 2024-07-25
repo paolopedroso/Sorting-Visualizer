@@ -49,10 +49,6 @@ This Python script leverages the Pygame library to create a window where sorting
 
 The program starts with a randomly generated list of numbers, which can be reset at any time using the `R` key. Users can choose to sort the list in ascending or descending order and can select between Bubble Sort and Insertion Sort algorithms using the `I` and `B` keys, respectively. The sorting process can be initiated by pressing the `SPACE` key, which will animate the sorting algorithm step by step.
 
-## Screenshot
-
-![Sorting Visualization](screenshot.png)
-
 ## Credits
 
 - Inspired by the tutorial from Tech With Tim: [Sorting Algorithm Visualizer](https://www.youtube.com/watch?v=twRidO-_vqQ&ab_channel=TechWithTim)
