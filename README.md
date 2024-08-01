@@ -32,7 +32,7 @@ This project is a visualization tool for understanding sorting algorithms. It us
 
 1. **Run the script**:
    ```sh
-   python sorting_visualization.py
+   python sorting_visualizer.py
    ```
 
 2. **Controls**:
