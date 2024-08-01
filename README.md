@@ -53,8 +53,3 @@ The program starts with a randomly generated list of numbers, which can be reset
 
 - Inspired by the tutorial from Tech With Tim: [Sorting Algorithm Visualizer](https://www.youtube.com/watch?v=twRidO-_vqQ&ab_channel=TechWithTim)
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
