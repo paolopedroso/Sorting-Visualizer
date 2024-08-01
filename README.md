@@ -58,5 +58,3 @@ The program starts with a randomly generated list of numbers, which can be reset
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
-
-Feel free to customize this README to better fit your project and add any additional information you find relevant.
